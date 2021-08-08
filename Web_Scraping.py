@@ -166,13 +166,15 @@ results = scraper.get_result_similar('https://www.amazon.in/s?k=mi+phones+under+
 # In[71]:
 
 
-#pip freeze >requirements.txt
+
 
 
 # In[72]:
 
 
-#pwd
+import os
+
+os.getcwd()
 
 
 # In[ ]:
